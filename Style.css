@@ -1,0 +1,92 @@
+body {
+    background-color: ghostwhite;
+    overflow: hidden auto;
+
+}
+#serchicon i{
+    padding-top: 60px;
+    margin-left: 120px;
+    position: absolute;
+}
+.sectionc{
+    position: relative;
+    margin-left: 1200px;
+    padding: 40px;
+
+}
+.sectionc span{
+    margin: 15px;
+}
+.topnav{
+    background-color: ghostwhite;
+    height: 200px;
+}
+.searchbar span{
+    margin-top: 50px;
+    background-position: left center;
+    outline: 0;
+    position: relative;
+    padding-left: 100px;
+    padding-top: 10px;
+    font-size: 20px;
+}
+.searchbar input{
+    position: absolute;
+    width:1000px;
+    color: white;
+    height: 50px;
+    margin-left: 100px;
+    margin-top:40px;
+    vertical-align: middle;
+}
+.searchbar input{text-indent: 48px}
+.category{
+    display: inline-block;
+    margin-top:20px;
+    padding-top: 60px;
+}
+hr{
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid gray;
+    margin-left: 50px;
+    margin-right: 200px;
+}
+.mainse{
+    margin-left: 100px;
+    margin-bottom: 70px;
+}
+.categoryimag span{
+    position: absolute;
+}
+.sectioniconse{
+    margin-top: 10px;
+    background: white;
+}
+#imgstyle img{
+    padding: 0px;
+    margin: 0px;
+}
+.mainse{
+    display: inline-block;
+    margin-left: 90px;
+    margin-bottom: 70px;
+}
+.categoryimag{
+    display: inline-block;
+    border-radius: 20px;
+}
+.categoryimag img-thumbnail{
+    display: inline-block;
+    margin: 25px 10px;
+    border-radius: 20px;
+
+}
+.sectionimageqw{
+    display: inline-block;
+    padding: 20px;
+}
+.sectioncategoryt{
+    margin-left: 10px;
+}
